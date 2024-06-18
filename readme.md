@@ -17,7 +17,7 @@ To run BlogCraft locally, follow these steps:
 
 1) Clone the repository:
 ```
-git clone https://github.com/your_username/blogcraft.git
+git clone https://github.com/saqib727/Blog-assistant
 cd blogcraft
 ```
 2) Setup environment variables:
